@@ -2,8 +2,12 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"Obj_astroid","order":1,"path":"objects/Obj_astroid/Obj_astroid.yy",},
+    {"name":"Obj_bullet","order":2,"path":"objects/Obj_bullet/Obj_bullet.yy",},
+    {"name":"Obj_debris","order":3,"path":"objects/Obj_debris/Obj_debris.yy",},
     {"name":"Spr_astroid_huge","order":2,"path":"sprites/Spr_astroid_huge/Spr_astroid_huge.yy",},
     {"name":"Spr_astroid_med","order":1,"path":"sprites/Spr_astroid_med/Spr_astroid_med.yy",},
     {"name":"Spr_astroid_small","order":3,"path":"sprites/Spr_astroid_small/Spr_astroid_small.yy",},
+    {"name":"Spr_bullet","order":4,"path":"sprites/Spr_bullet/Spr_bullet.yy",},
+    {"name":"Spr_debris","order":5,"path":"sprites/Spr_debris/Spr_debris.yy",},
   ],
 }
