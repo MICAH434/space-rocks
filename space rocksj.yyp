@@ -33,11 +33,16 @@
   },
   "name":"space rocksj",
   "resources":[
+    {"id":{"name":"Fnt_text","path":"fonts/Fnt_text/Fnt_text.yy",},},
     {"id":{"name":"Obj_astroid","path":"objects/Obj_astroid/Obj_astroid.yy",},},
     {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},},
     {"id":{"name":"Obj_debris","path":"objects/Obj_debris/Obj_debris.yy",},},
+    {"id":{"name":"Obj_game","path":"objects/Obj_game/Obj_game.yy",},},
     {"id":{"name":"Obj_ship","path":"objects/Obj_ship/Obj_ship.yy",},},
     {"id":{"name":"Rm_game","path":"rooms/Rm_game/Rm_game.yy",},},
+    {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
+    {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
+    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"id":{"name":"Spr_astroid_huge","path":"sprites/Spr_astroid_huge/Spr_astroid_huge.yy",},},
     {"id":{"name":"Spr_astroid_med","path":"sprites/Spr_astroid_med/Spr_astroid_med.yy",},},
     {"id":{"name":"Spr_astroid_small","path":"sprites/Spr_astroid_small/Spr_astroid_small.yy",},},
@@ -48,7 +53,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"Rm_game","path":"rooms/Rm_game/Rm_game.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
